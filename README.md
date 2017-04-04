@@ -1,5 +1,5 @@
 # pyduplicate
-Example sketch for finding the duplicate characters
+Example sketch for finding the duplicate values
 
 Run in terminal:
 
@@ -9,5 +9,5 @@ Example:
 
     pyduplicate.py "eeffc"
 
-returns characters: ef 
+returns: ef 
 
